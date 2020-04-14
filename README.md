@@ -1,2 +1,1 @@
-# Tin
-Responsive website for different display sizes : HTML/CSS/Bootstrap
+TinDog Starting Files
